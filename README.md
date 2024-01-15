@@ -7,16 +7,16 @@ Installation instructions and client compilation.<br>
 Help with installing and configuring the server.<br>
 For similar information please contact telegram @daveinli1218
 
-## Pool BrainWords $5000 
-Examle work  https://phrutisbrainwords.com<br>
-The pool includes the server and client sources.<br>
-Multigpu client<br>
-Installation instructions and client compilation.<br>
-Help with installing and configuring the server.<br>
-For similar information please contact telegram @daveinli1218
-
 ## Pool RNG Pool $1500
 For similar information please contact telegram @daveinli1218
 
 ## RNG Solo $500
+For similar information please contact telegram @daveinli1218
+
+## Pool BrainWords $5000 
+Examle work  https://phrutisbrainwords.com<br>
+The pool includes the server and client sources.<br>
+**Multigpu client**<br>
+Installation instructions and client compilation.<br>
+Help with installing and configuring the server.<br>
 For similar information please contact telegram @daveinli1218
